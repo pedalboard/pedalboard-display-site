@@ -1,135 +1,23 @@
-ERC report (2024-10-04T18:07:01+0000, Encoding UTF8)
+ERC report (2024-10-05T14:01:20+0000, Encoding UTF8)
 
 ***** Sheet /
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.8509 mm, 1.3208 mm): Symbol #PWR036 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.7874 mm, 1.2827 mm): Symbol #PWR035 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.7272 mm, 0.5842 mm): Symbol #PWR038 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(1.7272 mm, 0.3175 mm): Symbol #PWR037 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.2446 mm, 0.3302 mm): Symbol #PWR03 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(1.3081 mm, 0.3683 mm): Symbol #PWR02 [VCC]
 
 ***** Sheet /Led Ring GAIN/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring F/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring C/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring B/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring E/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring VOL/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring D/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
 ***** Sheet /Led Ring A/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.6731 mm): Symbol #PWR034 [GND]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6985 mm, 0.4064 mm): Symbol #PWR033 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.0287 mm): Symbol #PWR031 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 1.3208 mm): Symbol #PWR032 [GND]
 
- ** ERC messages: 38  Errors 0  Warnings 38
+***** Sheet /OLED/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
