@@ -6,9 +6,9 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 5,,Conn_01x03_Pin,J1,Conn_01x03_Pin,JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical,1, ,~,
 6,"Generic connector, single row, 01x04, script generated",Conn_01x04_Pin,J3,OLED STEMMA,,1, ,~,
 7,,R,R1,330,R_0402_1005Metric,1, ,https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf,https://www.digikey.ch/en/products/detail/walsin-technology-corporation/WR04X3300FTL/13239224
-8,Resistor,R,R2 R4,10K,,2, ,~,
+8,Resistor,R,R2,10K,,1, ,~,
 9,Resistor,R,R3 R5,390K,,2, ,~,
-10,"push-pull, active-high, 200mS reset delay, 2.93V threshold voltage, SOT-23",TLV810EA29DBZ,U1 U2,TLV810EA29DBZ,SOT-23,2, ,https://www.ti.com/lit/ds/symlink/tlv803e.pdf,
+10,"push-pull, active-high, 200mS reset delay, 2.93V threshold voltage, SOT-23",TLV810EA29DBZ,U1,TLV810EA29DBZ,SOT-23,1, ,https://www.ti.com/lit/ds/symlink/tlv803e.pdf,
 
 
 
@@ -22,7 +22,7 @@ Date:,2024-10-04
 KiCad Version:,8.0.4+1
 Statistics:
 Component Groups:,12
-Component Count:,218 (205 SMD/ 0 THT)
-Fitted Components:,215 (204 SMD/ 0 THT)
+Component Count:,216 (205 SMD/ 0 THT)
+Fitted Components:,213 (204 SMD/ 0 THT)
 Number of PCBs:,1
-Total Components:,215
+Total Components:,213
