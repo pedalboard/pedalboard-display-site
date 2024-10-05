@@ -1,8 +1,9 @@
-### Module positions - created on Sat 05 Oct 2024 16:29:54  ###
+### Module positions - created on Sat 05 Oct 2024 20:34:54  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref    Val              Package                                          PosX       PosY       Rot         Side  
 J1       Conn_01x03_Pin   JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical   87.0000    101.0000   180.0000    bottom
 J2       Conn_01x03_Pin   JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical   4.7000     25.0000    -90.0000    bottom
+J3       OLED             JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical   107.0000   100.5500   180.0000    bottom
 ## End
