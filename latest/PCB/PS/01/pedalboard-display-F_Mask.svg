@@ -235,12 +235,6 @@
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
 <circle cx="84.5000" cy="127.2000" r="1.0500"/> 
-<path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 72.4380,74.0728 74.1380,74.0728 74.1380,77.6728 72.4380,77.6728 Z"/> 
-</g>
-<g style="fill:none;  stroke:#000000; stroke-width:1.7000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path d="M70.7480 74.9728 L70.7480 76.7728 "/>
-<path d="M68.2080 74.9728 L68.2080 76.7728 "/>
-<path d="M65.6680 74.9728 L65.6680 76.7728 "/>
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 172.3000,71.8000 172.3000,71.3000 172.8000,71.3000 172.8000,71.8000 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 172.3000,72.7000 172.3000,72.2000 172.8000,72.2000 172.8000,72.7000 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 173.2000,72.7000 173.2000,72.2000 173.7000,72.2000 173.7000,72.7000 Z"/> 
@@ -596,12 +590,6 @@
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
 <circle cx="159.5000" cy="127.2000" r="1.0500"/> 
-<path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 147.4380,74.0728 149.1380,74.0728 149.1380,77.6728 147.4380,77.6728 Z"/> 
-</g>
-<g style="fill:none;  stroke:#000000; stroke-width:1.7000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path d="M145.7480 74.9728 L145.7480 76.7728 "/>
-<path d="M143.2080 74.9728 L143.2080 76.7728 "/>
-<path d="M140.6680 74.9728 L140.6680 76.7728 "/>
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 26.9768,80.3004 26.5438,80.0504 26.7938,79.6174 27.2268,79.8674 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 27.7562,80.7504 27.3232,80.5004 27.5732,80.0674 28.0062,80.3174 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 28.2062,79.9710 27.7732,79.7210 28.0232,79.2880 28.4562,79.5380 Z"/> 
