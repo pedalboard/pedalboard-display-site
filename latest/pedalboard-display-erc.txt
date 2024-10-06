@@ -1,4 +1,4 @@
-ERC report (2024-10-06T14:03:26+0000, Encoding UTF8)
+ERC report (2024-10-06T14:05:37+0000, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
