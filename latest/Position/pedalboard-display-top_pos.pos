@@ -1,4 +1,4 @@
-### Module positions - created on Sun 06 Oct 2024 11:14:33  ###
+### Module positions - created on Sun 06 Oct 2024 12:11:42  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -204,6 +204,6 @@ FID2     Fiducial         Fiducial_0.5mm_Mask1mm                           169.0
 FID3     Fiducial         Fiducial_0.5mm_Mask1mm                           5.0000     1.0000     0.0000      top   
 FID4     Fiducial         Fiducial_0.5mm_Mask1mm                           169.0000   1.0000     0.0000      top   
 R1       330              R_0402_1005Metric                                74.0000    102.9900   -90.0000    top   
-U1       ~                OLED_128x128                                     43.2500    51.2000    0.0000      top   
-U2       ~                OLED_128x128                                     126.3000   49.4000    0.0000      top   
+U1       ~                OLED_128x128                                     49.5000    34.8000    0.0000      top   
+U2       ~                OLED_128x128                                     124.5000   34.8000    0.0000      top   
 ## End
