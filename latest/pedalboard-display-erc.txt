@@ -1,4 +1,4 @@
-ERC report (2024-10-06T15:35:41+0000, Encoding UTF8)
+ERC report (2024-10-06T16:12:31+0000, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
@@ -19,12 +19,12 @@ ERC report (2024-10-06T15:35:41+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
     ; warning
     @(1.3081 mm, 0.3683 mm): Symbol #PWR02 [VCC]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.7874 mm, 1.2827 mm): Symbol #PWR035 [GND]
 [lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
     ; warning
     @(0.8509 mm, 1.3208 mm): Symbol #PWR036 [VCC]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.7874 mm, 1.2827 mm): Symbol #PWR035 [GND]
 
 ***** Sheet /Led Ring GAIN/
 [lib_symbol_issues]: Symbol 'SK6812' has been modified in library 'pedalboard-display'
