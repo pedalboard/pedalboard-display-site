@@ -1,30 +1,30 @@
-ERC report (2024-10-07T15:50:05+0000, Encoding UTF8)
+ERC report (2024-10-08T08:35:21+0000, Encoding UTF8)
 
 ***** Sheet /
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.7272 mm, 0.5842 mm): Symbol #PWR038 [GND]
-[lib_symbol_issues]: Symbol 'SK6812' has been modified in library 'pedalboard-display'
-    ; warning
-    @(1.5113 mm, 0.4318 mm): Symbol D97 [SK6812]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
-    ; warning
-    @(1.7272 mm, 0.3175 mm): Symbol #PWR037 [VCC]
 [lib_symbol_issues]: Symbol 'SK6812' has been modified in library 'pedalboard-display'
     ; warning
     @(1.7272 mm, 0.4318 mm): Symbol D98 [SK6812]
+[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
+    ; warning
+    @(1.7272 mm, 0.3175 mm): Symbol #PWR037 [VCC]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.2446 mm, 0.3302 mm): Symbol #PWR03 [GND]
+    @(1.7272 mm, 0.5842 mm): Symbol #PWR038 [GND]
 [lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
     ; warning
     @(1.3081 mm, 0.3683 mm): Symbol #PWR02 [VCC]
-[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.8509 mm, 1.3208 mm): Symbol #PWR036 [VCC]
+    @(1.2446 mm, 0.3302 mm): Symbol #PWR03 [GND]
+[lib_symbol_issues]: Symbol 'SK6812' has been modified in library 'pedalboard-display'
+    ; warning
+    @(1.5113 mm, 0.4318 mm): Symbol D97 [SK6812]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.7874 mm, 1.2827 mm): Symbol #PWR035 [GND]
+[lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'
+    ; warning
+    @(0.8509 mm, 1.3208 mm): Symbol #PWR036 [VCC]
 
 ***** Sheet /Led Ring GAIN/
 [lib_symbol_issues]: Symbol 'SK6812' has been modified in library 'pedalboard-display'

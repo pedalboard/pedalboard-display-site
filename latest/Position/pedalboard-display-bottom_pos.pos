@@ -1,4 +1,4 @@
-### Module positions - created on Mon 07 Oct 2024 15:56:58  ###
+### Module positions - created on Tue 08 Oct 2024 08:42:13  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -6,4 +6,6 @@
 J1       LED-IN        JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical   87.0000    83.0000    180.0000    bottom
 J2       LED-OUT       JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical   4.7000     25.0000    -90.0000    bottom
 J3       OLED          JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical   124.0000   68.0000    180.0000    bottom
+R2       3K3           R_0805_2012Metric                                117.7500   60.0875    90.0000     bottom
+R3       3K3           R_0805_2012Metric                                115.7500   60.0875    90.0000     bottom
 ## End
