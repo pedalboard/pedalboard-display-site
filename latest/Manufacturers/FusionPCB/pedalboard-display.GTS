@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4+1*
-G04 #@! TF.CreationDate,2024-10-08T18:50:22+00:00*
+G04 #@! TF.CreationDate,2024-10-08T20:46:47+00:00*
 G04 #@! TF.ProjectId,pedalboard-display,70656461-6c62-46f6-9172-642d64697370,0.0.0-RC1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4+1) date 2024-10-08 18:50:22*
+G04 Created by KiCad (PCBNEW 8.0.4+1) date 2024-10-08 20:46:47*
 %MOMM*%
 %LPD*%
 G01*
@@ -14,7 +14,7 @@ G04 APERTURE LIST*
 %ADD10C,1.000000*%
 %ADD11R,0.500000X0.500000*%
 %ADD12C,2.500000*%
-%ADD13C,2.100000*%
+%ADD13C,3.300000*%
 G04 APERTURE END LIST*
 D10*
 X169000000Y110000000D03*
