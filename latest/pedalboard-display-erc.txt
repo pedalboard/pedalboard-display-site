@@ -1,4 +1,4 @@
-ERC report (2024-10-09T13:47:46+0000, Encoding UTF8)
+ERC report (2024-10-13T20:53:29+0000, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: Symbol 'VCC' has been modified in library 'power'

@@ -2914,7 +2914,7 @@ SHEET "RefDes: H4, Value: MountingHole"
 
 COMPONENT "H3"
 DEVICE "DEV_MountingHole:MountingHole_2.5mm"
-PLACE 6.69291 -1.10236
+PLACE 7.3622 -1.10236
 LAYER TOP
 ROTATION 0
 SHAPE "MountingHole:MountingHole_2.5mm" 0 0
@@ -3534,7 +3534,7 @@ SHEET "RefDes: D74, Value: SK6812_EC15"
 
 COMPONENT "H1"
 DEVICE "DEV_MountingHole:MountingHole_2.5mm"
-PLACE 1.73228 -1.10236
+PLACE 1.06299 -1.10236
 LAYER TOP
 ROTATION 0
 SHAPE "MountingHole:MountingHole_2.5mm" 0 0
