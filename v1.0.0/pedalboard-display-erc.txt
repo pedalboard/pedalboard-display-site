@@ -1,0 +1,21 @@
+ERC report (2024-10-16T16:49:00+0000, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /Led Ring GAIN/
+
+***** Sheet /Led Ring F/
+
+***** Sheet /Led Ring C/
+
+***** Sheet /Led Ring B/
+
+***** Sheet /Led Ring E/
+
+***** Sheet /Led Ring VOL/
+
+***** Sheet /Led Ring D/
+
+***** Sheet /Led Ring A/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
