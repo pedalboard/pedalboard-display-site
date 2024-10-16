@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-display/pedalboard-display/pedalboard-display.kicad_sch")
-    (date "2024-10-16T16:48:36+0000")
+    (date "2024-10-16T16:58:47+0000")
     (tool "Eeschema 8.0.4+1")
     (textvar (name "GIT_HASH") "88b9b02")
     (sheet (number "1") (name "/") (tstamps "/")
